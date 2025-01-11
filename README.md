@@ -1,13 +1,12 @@
 # Women in AI Hackathon 2024
 
 ## Objective
-This project was developed as part of the 2024 Women in AI Canada Hackathon. It focuses on leveraging AI to address the gender wage gap by creating a tool that empowers organizations to identify and address pay inequities.
+## Objective
+This project was developed as part of the 2024 Women in AI Canada Hackathon, where it won **second place**. It focuses on leveraging AI to address the gender wage gap by creating a tool that empowers organizations to identify and address pay inequities.
 
 ---
 
 ## Project Highlights
-## Project Highlights
-- **Second Place**: This project won second place in the 2024 Women in AI Canada Hackathon, competing against teams nationwide.
 
 1. **Problem Statement**:
    - Women earn only 84 cents for every dollar earned by men, with 70% of the wage gap remaining unexplained by measurable factors.
