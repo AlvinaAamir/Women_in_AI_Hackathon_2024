@@ -6,6 +6,9 @@ This project was developed as part of the 2024 Women in AI Canada Hackathon. It 
 ---
 
 ## Project Highlights
+## Project Highlights
+- **Second Place**: This project won second place in the 2024 Women in AI Canada Hackathon, competing against teams nationwide.
+
 1. **Problem Statement**:
    - Women earn only 84 cents for every dollar earned by men, with 70% of the wage gap remaining unexplained by measurable factors.
    - Marginalized groups face even higher wage disparities.
